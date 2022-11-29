@@ -13,7 +13,7 @@ function App() {
         <ul className="headerRight d-flex">
           <li className="mr-30">
             <img src="\img\cart.svg" width={18} height={18} />
-              <span>1200 руб.</span>
+              <span>1205 руб.</span>
             </li>
           <li>
           <img src="\img\user.svg" width={18} height={18} />
